@@ -1,9 +1,9 @@
 ---
 title: Accueil
-description: Accueil de mon blog personnel.
+description: Accueil de mon blog.
 ---
 
-Étudiant ingénieur en informatique à [Télécom Saint-Étienne](https://www.telecom-st-etienne.fr/), actuellement en double-diplôme en [Maîtrise en informatique, concentration cybersécurité](https://www.uqac.ca/programme/2138-maitrise-en-informatique-cybersecurite/), à l'[UQAC](https://www.uqac.ca/).
+Étudiant ingénieur en informatique et réseaux à [Télécom Saint-Étienne](https://www.telecom-st-etienne.fr/), actuellement en double-diplôme en [Maîtrise en informatique, concentration cybersécurité](https://www.uqac.ca/programme/2138-maitrise-en-informatique-cybersecurite/), à l'[UQAC](https://www.uqac.ca/).
 
 ---
 
