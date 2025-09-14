@@ -1,0 +1,19 @@
+
+<p>
+©
+
+{{- if ne .Site.Params.Copyright.Since false -}}
+	{{- if lt .Site.Params.Copyright.Since now.Year }} {{ .Site.Params.Copyright.Since }} -{{ end }} {{ now.Year }}
+{{- end -}}
+
+{{- if ne .Site.Params.Copyright.Author false -}}
+	, {{ .Site.Params.Copyright.Author }}
+{{- end -}}
+
+.
+{{ if ne .Site.Params.Copyright.Mention false }}
+	{{ .Site.Params.Copyright.Mention }}
+{{ end }}
+</p>
+
+{{ if not (.Param "hideMadeWithLine") }}<p>Fait avec <a href="https://github.com/janraasch/hugo-bearblog/">Hugo ʕ•ᴥ•ʔ Bear</a></p>{{ end }}

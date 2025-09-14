@@ -1,0 +1,12 @@
+[submodule "themes/cactus"]
+	path = themes/cactus
+	url = https://github.com/monkeyWzr/hugo-theme-cactus.git
+[submodule "themes/monochrome"]
+	path = themes/monochrome
+	url = https://github.com/kaiiiz/hugo-theme-monochrome.git
+[submodule "themes/bear"]
+	path = themes/bear
+	url = https://github.com/HermanMartinus/bearblog/
+[submodule "themes/hugo-bearblog"]
+	path = themes/hugo-bearblog
+	url = https://github.com/janraasch/hugo-bearblog.git
