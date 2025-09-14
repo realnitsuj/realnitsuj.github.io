@@ -11,4 +11,4 @@ Je suis passionné de technologies, de sécurité, et du jeu d'échecs.
 
 ---
 
-Vous pouvez consulter mon [Curriculum Vitæ](/cv/), ou me [contacter](/contact/).
+Vous pouvez consulter mon [Curriculum Vitæ](cv/), ou me [contacter](contact/).
