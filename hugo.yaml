@@ -17,6 +17,10 @@ markup:
 minify:
   minifyOutput: true
 
+caches:
+  images:
+    dir: :cacheDir/images
+
 params:
   copyright:
     since: 2025
