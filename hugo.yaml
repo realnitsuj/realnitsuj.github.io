@@ -4,16 +4,18 @@ theme: "bearblog"
 
 title: "Justin Bossard"
 author: "Justin Bossard"
-languageCode: 'fr-FR'
+languageCode: "fr-FR"
 
 markup:
-    style: 'solarized-dark'
-    lineNos: true
+  style: "solarized-dark"
+  lineNos: true
+
+enableEmoji: true
+
+enableRobotsTXT: true
 
 minify:
   minifyOutput: true
-
-enableEmoji: true
 
 caches:
   images:
