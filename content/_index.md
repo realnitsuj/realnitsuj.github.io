@@ -1,12 +1,8 @@
----
-description: Accueil de mon blog
----
-
 Étudiant ingénieur en informatique et réseaux à [Télécom Saint-Étienne](https://www.telecom-st-etienne.fr/), actuellement en double-diplôme en [Maîtrise en informatique, concentration cybersécurité](https://www.uqac.ca/programme/2138-maitrise-en-informatique-cybersecurite/), à l'[UQAC](https://www.uqac.ca/).
 
 Je suis passionné de technologies, de sécurité, et du jeu d'échecs.
 
----
+***
 
 ## Outils utilisés
 
