@@ -1,4 +1,4 @@
-baseURL: "https://realnitsuj.github.io/website/"
+baseURL: "https://realnitsuj.github.io"
 
 theme: "bearblog"
 
@@ -12,6 +12,8 @@ markup:
 
 minify:
   minifyOutput: true
+
+enableEmoji: true
 
 caches:
   images:
