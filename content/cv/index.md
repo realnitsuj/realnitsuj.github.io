@@ -56,6 +56,17 @@ Septembre 2021 à juillet 2023
 
 ##  Expérience professionnelle
 
+Mars à juin 2025
+
+:   [Projet ingénieurie
+    Télécom](https://www.telecom-st-etienne.fr/entreprise/etre-accompagne/les-projets-ingenierie-ping/) -
+    [Vivardis](https://www.vivardis.fr/), Saint-Étienne, France
+
+    -   Programmation en C/C++ d’un hub de collecte de données de santé
+        à domicile sur
+        [ESP32](https://www.espressif.com/en/products/socs/esp32).
+    -   Travail en équipe de 4 sur deux sprints.
+
 Mai à juillet 2024 (2 mois)
 
 :   Stage - [2iT solutions](https://www.2itsolutions.fr/), secteur
@@ -72,21 +83,13 @@ Mai à juillet 2024 (2 mois)
         3](https://www.raspberrypi.com/products/raspberry-pi-3-model-b/)
         avec [PiVPN](https://www.pivpn.io/).
 
-##  Projets en groupe
-
-Cryptographie
-:   \[2025, [git](https://github.com/realnitsuj/crypto-homomorphisme/)\]
-    Étude du chiffrement homomorphique appliqué au Machine Learning.
-
-C/C++
-:   \[2025\] Programmation ESP32 de différents protocoles de
-    communication pour [Vivardis](https://www.vivardis.fr/).
-    <!--:   [2024, [git](https://github.com/realnitsuj/ProjetElectroniqueS6)] Jeu Doom-like sur STM32, avec génération aléatoire de labyrinthe.-->
-
-GNU Bash
-:   \[2024, [git](https://github.com/realnitsuj/scripting-projet)\]
-    Script de sauvegarde automatique avec suivi par courriel.
-
+<!--## \faIcon{hammer} Projets en groupe-->
+<!---->
+<!--Cryptographie-->
+<!--:   [2025, [git](https://github.com/realnitsuj/crypto-homomorphisme/)] Étude du chiffrement homomorphique appliqué au Machine Learning.-->
+<!--:   [2024, [git](https://github.com/realnitsuj/ProjetElectroniqueS6)] Jeu Doom-like sur STM32, avec génération aléatoire de labyrinthe.-->
+<!--GNU Bash-->
+<!--:   [2024, [git](https://github.com/realnitsuj/scripting-projet)] Script de sauvegarde automatique avec suivi par courriel.-->
 <!--Java-->
 <!--:   [2024] Application de consultation de BD en Java Swing.-->
 <!---->
@@ -130,8 +133,9 @@ Mandarin
 ##  Engagement associatif
 
 2023 à 2025 (associations Télécom)
-:   Membre de Projet & Tech (*robotique*). Participation à la Coupe de
-    France de robotique 2025.
+:   Membre de Projet & Tech (*robotique*). Participation à la [Coupe de
+    France de robotique
+    2025](https://www.coupederobotique.fr/accueil/le-concours/reglement-2025/).
 
 ##  Centres d’intérêts
 
