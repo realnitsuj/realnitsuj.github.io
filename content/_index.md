@@ -1,3 +1,7 @@
+---
+description: "Site personnel de blog et facéties."
+---
+
 Étudiant ingénieur en informatique et réseaux à [Télécom Saint-Étienne](https://www.telecom-st-etienne.fr/), actuellement en double-diplôme en [Maîtrise en informatique, concentration cybersécurité](https://www.uqac.ca/programme/2138-maitrise-en-informatique-cybersecurite/), à l'[UQAC](https://www.uqac.ca/).
 
 Je suis passionné de technologies, de sécurité, et du jeu d'échecs.
@@ -6,7 +10,7 @@ Je suis passionné de technologies, de sécurité, et du jeu d'échecs.
 
 ## Outils utilisés
 
-OS
+Système d'exploitation
 :   [Arch Linux](https://archlinux.org/), en attendant de revenir à [Gentoo](https://www.gentoo.org/) avec [systemd](https://systemd.io/)
 
 Shell
