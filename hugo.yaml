@@ -7,8 +7,10 @@ author: "Justin Bossard"
 languageCode: "fr-FR"
 
 markup:
-  style: "solarized-dark"
-  lineNos: true
+  highlight:
+    style: "solarized-dark"
+    lineNos: true
+    lineNumbersInTable: false
 
 enableEmoji: true
 
