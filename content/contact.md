@@ -11,5 +11,5 @@ weight: 1000
 ## Réseaux sociaux
 
 - [GitHub](https://github.com/realnitsuj)
-- [LinkedIn](https://www.linkedin.com/in/justin-bossard-9b656b297)
+- [LinkedIn](https://www.linkedin.com/in/justin-bossard)
 - [Lichess](https://lichess.org/@/realnitsuj)
