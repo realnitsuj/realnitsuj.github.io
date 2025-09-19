@@ -2,15 +2,15 @@
 description: "Site personnel de blog et facéties."
 ---
 
+## :wave: À propos
+
 Étudiant ingénieur en informatique et réseaux à [Télécom Saint-Étienne](https://www.telecom-st-etienne.fr/), actuellement en double-diplôme en [Maîtrise en informatique, concentration cybersécurité](https://www.uqac.ca/programme/2138-maitrise-en-informatique-cybersecurite/), à l'[UQAC](https://www.uqac.ca/).
 
 Je suis passionné de technologies, de sécurité, et du jeu d'échecs.
 
-***
+## :toolbox: Outils utilisés
 
-## Outils utilisés
-
-Pour plus de détails sur mes "dotfiles" : <https://github.com/realnitsuj/dotfiles>.
+Voir aussi : <https://github.com/realnitsuj/dotfiles>
 
 Système d'exploitation
 :   [Arch Linux](https://archlinux.org/)
