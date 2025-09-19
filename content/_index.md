@@ -20,7 +20,7 @@ Environnement de bureau
 :   Compositeur
     :   [Sway](https://swaywm.org/)
 :   Barre d'état
-    :   [Waybar](https://swaywm.org/)
+    :   [Waybar](https://github.com/Alexays/Waybar)
 :   Terminal
     :   [Foot](https://codeberg.org/dnkl/foot)
 :   Éditeur de texte
