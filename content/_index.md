@@ -10,8 +10,10 @@ Je suis passionné de technologies, de sécurité, et du jeu d'échecs.
 
 ## Outils utilisés
 
+Pour plus de détails sur mes "dotfiles" : <https://github.com/realnitsuj/dotfiles>.
+
 Système d'exploitation
-:   [Arch Linux](https://archlinux.org/), en attendant de revenir à [Gentoo](https://www.gentoo.org/) avec [systemd](https://systemd.io/)
+:   [Arch Linux](https://archlinux.org/)
 
 Shell
 :   [GNU Bash](https://www.gnu.org/software/bash/) en interactif, [Dash](http://gondor.apana.org.au/~herbert/dash/) ou [Python](https://www.python.org/) sinon
