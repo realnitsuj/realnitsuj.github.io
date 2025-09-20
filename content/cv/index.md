@@ -34,7 +34,7 @@ Septembre 2021 à juillet 2023
     Perrin](https://jean-perrin.ent.auvergnerhonealpes.fr/classes-preparatoires-scientifiques/),
     Lyon, France
 
-##  Diplômes et certifications
+##  Diplômes
 
 *2027*
 :   \[en cours\] [Maîtrise en informatique
@@ -45,14 +45,11 @@ Septembre 2021 à juillet 2023
 :   \[en cours\] Diplôme d’ingénieur en informatique et réseaux -
     [Télécom Saint-Étienne](https://www.telecom-st-etienne.fr/), France
 
-2025
-:   Cisco CCNA 1 ([Introduction to
-    Networks](https://www.netacad.com/courses/ccna-introduction-networks))
-    et 2 ([Switching, Routing, and Wireless
-    Essentials](https://www.netacad.com/courses/ccna-switching-routing-wireless-essentials))
-
-2015 à 2021
-:   9 certifications [OpenClassrooms](https://openclassrooms.com/fr/)
+<!--2025-->
+<!--:   Cisco CCNA 1 ([Introduction to Networks](https://www.netacad.com/courses/ccna-introduction-networks)) et 2 ([Switching, Routing, and Wireless Essentials](https://www.netacad.com/courses/ccna-switching-routing-wireless-essentials))-->
+<!---->
+<!--2015 à 2021-->
+<!--:   9 certifications [OpenClassrooms](https://openclassrooms.com/fr/)-->
 
 ##  Expérience professionnelle
 
@@ -83,16 +80,22 @@ Mai à juillet 2024 (2 mois)
         3](https://www.raspberrypi.com/products/raspberry-pi-3-model-b/)
         avec [PiVPN](https://www.pivpn.io/).
 
-<!--## \faIcon{hammer} Projets en groupe-->
-<!---->
-<!--Cryptographie-->
-<!--:   [2025, [git](https://github.com/realnitsuj/crypto-homomorphisme/)] Étude du chiffrement homomorphique appliqué au Machine Learning.-->
-<!--:   [2024, [git](https://github.com/realnitsuj/ProjetElectroniqueS6)] Jeu Doom-like sur STM32, avec génération aléatoire de labyrinthe.-->
-<!--GNU Bash-->
-<!--:   [2024, [git](https://github.com/realnitsuj/scripting-projet)] Script de sauvegarde automatique avec suivi par courriel.-->
+##  Projets en groupe
+
+Cryptographie
+:   \[2025, [git](https://github.com/realnitsuj/crypto-homomorphisme/)\]
+    Étude du chiffrement homomorphique appliqué au Machine Learning.
+
+GNU Bash
+:   \[2024, [git](https://github.com/realnitsuj/scripting-projet)\]
+    Script de sauvegarde automatique avec suivi par courriel.
+
+C
+:   \[2024, [git](https://github.com/realnitsuj/ProjetElectroniqueS6)\]
+    Jeu Doom-like sur STM32, avec génération aléatoire de labyrinthe.
+
 <!--Java-->
 <!--:   [2024] Application de consultation de BD en Java Swing.-->
-<!---->
 <!--JavaScript-->
 <!--:   [2025] Application de messagerie instantanée.-->
 
@@ -113,6 +116,15 @@ Mai à juillet 2024 (2 mois)
 -   Utilisation *ponctuelle* de :
     -   [Docker](https://www.docker.com/) (isoler des environnements) ;
     -   Langages Web : HTML, CSS, JavaScript, PHP, MySQL.
+
+2025
+:   Cisco CCNA 1 ([Introduction to
+    Networks](https://www.netacad.com/courses/ccna-introduction-networks))
+    et 2 ([Switching, Routing, and Wireless
+    Essentials](https://www.netacad.com/courses/ccna-switching-routing-wireless-essentials))
+
+<!--2015 à 2021-->
+<!--:   9 certifications [OpenClassrooms](https://openclassrooms.com/fr/)-->
 
 ##  Langues
 
