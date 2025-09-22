@@ -1,7 +1,7 @@
 ---
 menu: main
 title: Curriculum Vitæ
-weight: 10
+weight: 100
 ---
 
 \[[Version PDF](cv.pdf)\] : *aucune information personnelle n’y est
@@ -47,7 +47,6 @@ Septembre 2021 à juillet 2023
 
 <!--2025-->
 <!--:   Cisco CCNA 1 ([Introduction to Networks](https://www.netacad.com/courses/ccna-introduction-networks)) et 2 ([Switching, Routing, and Wireless Essentials](https://www.netacad.com/courses/ccna-switching-routing-wireless-essentials))-->
-<!---->
 <!--2015 à 2021-->
 <!--:   9 certifications [OpenClassrooms](https://openclassrooms.com/fr/)-->
 

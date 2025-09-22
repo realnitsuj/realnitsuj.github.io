@@ -1,7 +1,7 @@
 ---
 title: Blog
 menu: main
-weight: 100
+weight: 10
 ---
 
 ## Blog
