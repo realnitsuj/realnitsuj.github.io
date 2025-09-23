@@ -202,7 +202,7 @@ Le reste est dans `cv.md`.
 
 J'utilise [FontAwesome][] avec [LaTeX][] (e.g. `\faIcon{globe}`) pour avoir de jolies icônes en PDF. Je réfléchis à une solution pour les intégrer aussi en HTML avec un filtre Lua et [cet article](https://somethingstrange.com/posts/hugo-with-fontawesome/).
 
-J'utilise [columns.lua](https://github.com/dialoa/columns) pour les doubles colonnes[^2], le reste est écrit en Markdown (avec beaucoup de listes de définitions).
+J'utilise [columns.lua](https://github.com/dialoa/columns) pour les doubles colonnes[^2], le reste est écrit en [Markdown][] (avec beaucoup de listes de définitions).
 
 [^2]: Au lieu d'un environnement `multicol`, pour garder une syntaxe la plus simple possible
 
@@ -251,3 +251,4 @@ Et voilà ! Ce système me permet d’avoir un CV centralisé et exportable dans
 [FontAwesome]: https://fontawesome.com/
 [LaTeX]: https://www.latex-project.org/
 [Pandoc]: https://pandoc.org/
+[Markdown]: https://daringfireball.net/projects/markdown/
