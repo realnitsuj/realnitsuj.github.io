@@ -9,8 +9,9 @@ présente, vous pouvez [me contacter](../contact/) pour un CV complet.*
 
 ------------------------------------------------------------------------
 
-Étudiant-ingénieur en informatique et réseaux, désireux de m’orienter
-dans la cybersécurité.
+Étudiant-ingénieur en informatique et réseaux, spécialisé en
+cybersécurité.  
+En recherche d’un stage de fin d’études à partir d’août 2026.
 
 ------------------------------------------------------------------------
 
@@ -69,36 +70,34 @@ Mai à juillet 2024 (2 mois)
 :   Stage - [2iT solutions](https://www.2itsolutions.fr/), secteur
     informatique, Dommartin, France
 
-    -   Découverte de technologies mises en place pour les clients,
-        notamment de logiciels d’impression et de téléphonie. Support
-        client par téléphone.
-    -   Mise en place d’un
-        [Centrex](https://fr.wikipedia.org/wiki/Centrex_IP) avec
-        [3CX](https://www.3cx.fr/).
     -   Mise en place d’un serveur [OpenVPN](https://openvpn.net/) sur
         [Raspberry Pi
         3](https://www.raspberrypi.com/products/raspberry-pi-3-model-b/)
         avec [PiVPN](https://www.pivpn.io/).
+    -   Déploiement d’un
+        [Centrex](https://fr.wikipedia.org/wiki/Centrex_IP) avec
+        [3CX](https://www.3cx.fr/).
+    -   Déploiement par téléphone de solutions de suivi d’impression.
 
 ##  Projets en groupe
+
+Cryptographie
+:   \[2025, [git](https://github.com/realnitsuj/crypto-homomorphisme/)\]
+    Étude du chiffrement homomorphique appliqué au Machine Learning.
+
+C
+:   \[2024, [git](https://github.com/realnitsuj/ProjetElectroniqueS6)\]
+    Jeu Doom-like sur STM32, avec génération aléatoire de labyrinthe.
+
+GNU Bash
+:   \[2024, [git](https://github.com/realnitsuj/scripting-projet)\]
+    Script de sauvegarde automatique avec suivi par courriel.
 
 [Hackathon CONFORMiT x UQAC](https://www.uqac.ca/dim/hackathon-conformit-x-uqac-4e-edition/)
 :   \[2025, *Frontend*\] Développement application d’analyse de donnée
     massive assistée par chatbot. Technologies :
     [React](https://react.dev/), [Vite](https://vite.dev/),
     [shadcn/ui](https://ui.shadcn.com/).
-
-Cryptographie
-:   \[2025, [git](https://github.com/realnitsuj/crypto-homomorphisme/)\]
-    Étude du chiffrement homomorphique appliqué au Machine Learning.
-
-GNU Bash
-:   \[2024, [git](https://github.com/realnitsuj/scripting-projet)\]
-    Script de sauvegarde automatique avec suivi par courriel.
-
-C
-:   \[2024, [git](https://github.com/realnitsuj/ProjetElectroniqueS6)\]
-    Jeu Doom-like sur STM32, avec génération aléatoire de labyrinthe.
 
 <!--Java-->
 <!--:   [2024] Application de consultation de BD en Java Swing.-->
