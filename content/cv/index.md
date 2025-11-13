@@ -37,7 +37,7 @@ Depuis septembre 2023
 
 Septembre 2021 à juillet 2023
 :   CPGE PCSI puis PC - [Lycée Jean
-    Perrin](https://jean-perrin.ent.auvergnerhonealpes.fr/classes-preparatoires-scientifiques/),
+    Perrin](https://jean-perrin.ent.auvergnerhonealpes.fr/classes-prepas-scientifiques/),
     Lyon, France
 
 <!--## \faIcon{graduation-cap} Diplômes-->
@@ -131,7 +131,7 @@ Français
 :   natif
 
 Anglais
-:   niveau B2 - *TOEIC : 910 (2024)*
+:   niveau B2 - TOEIC \[2024\] : 910/990
 
 Allemand
 :   niveau A2
@@ -151,7 +151,7 @@ Mandarin
 ##  Centres d’intérêts
 
 Échecs
-:   Pratique amateur en ligne.
+:   Pratique au club de l’UQAC et en ligne.
 
 Musique
 :   Guitare depuis 2010, étude du solfège de 2010 à 2014.
