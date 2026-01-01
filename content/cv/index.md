@@ -11,7 +11,7 @@ présente, vous pouvez [me contacter](../contact/) pour un CV complet.*
 
 Étudiant-ingénieur en informatique et réseaux, spécialisé en
 cybersécurité.  
-En recherche d’un stage de fin d’études à partir d’août 2026.
+En recherche d’un stage de fin d’études à partir de septembre 2026.
 
 ------------------------------------------------------------------------
 
@@ -75,7 +75,7 @@ Mai à juillet 2024 (2 mois)
         3](https://www.raspberrypi.com/products/raspberry-pi-3-model-b/)
         avec [PiVPN](https://www.pivpn.io/).
     -   Déploiement d’un
-        [Centrex](https://fr.wikipedia.org/wiki/Centrex_IP) avec
+        [Centrex](https://wazo.io/fr/press-room/centrex-ip-2/) avec
         [3CX](https://www.3cx.fr/).
     -   Déploiement par téléphone de solutions de suivi d’impression.
 
