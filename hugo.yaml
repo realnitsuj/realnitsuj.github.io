@@ -2,7 +2,7 @@ baseURL: "https://realnitsuj.github.io"
 
 theme: "bearblog"
 
-title: "Justin Bossard"
+title: "realnitsuj"
 author: "Justin Bossard"
 languageCode: "fr-FR"
 
@@ -11,24 +11,23 @@ markup:
     style: "solarized-dark"
     lineNos: true
     lineNumbersInTable: false
+    codeFences: true
 
 enableEmoji: true
 
 enableRobotsTXT: true
 
+disableKinds:
+  - taxonomy
+ignoreErrors:
+  - error-disable-taxonomy
+permalinks:
+  blog: "/:slug/"
+  tags: "/blog/:slug"
+
 minify:
   minifyOutput: true
 
-caches:
-  images:
-    dir: :cacheDir/images
-
 params:
-  copyright:
-    since: 2025
-    author: Justin Bossard
-    mention: Tous droits réservés.
-
-  description: "Site personnel de blog et facéties."
-  
+  description: "Blog et portfolio. Articles sur l'informatique, projets personnels et CV." 
   favicon: "favicon.png"
